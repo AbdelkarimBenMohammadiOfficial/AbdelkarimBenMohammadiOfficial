@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AbdelkarimBenMohammadiOfficial
+- 👋 Hi, I’m Abdelkarim Ben Mohammadi 
 - 👀 I’m interested in AI, Data-Science & Web-Automation
 - 🌱 I’m currently learning & Working on AI, Data-Science & Web-Automation
 - 💞️ I’m looking to collaborate on AI, Data-Science & Web-Automation
